@@ -1,0 +1,107 @@
+// .rootMenu{
+//     // gap: 15px;
+//     // display: flex;
+//     // // background: #1919ae;
+//     // padding: 10px 20px;
+//     // border-radius: 10px;
+//     // margin: 0px;
+//     // // color: #FFF;
+//     // justify-content: start;
+//     // font-size: 14px;
+//     // font-weight: 600;
+//     // text-wrap: nowrap;
+//     // &:first-child{
+//     //     margin-top: 10px;
+//     // }
+//     // svg{
+//     //     font-size: 20px !important;
+//     // }
+// }
+// .ps-menuitem-root.MenuRoot:first-child {
+//     height: 65px !important;
+//     margin-top: 0 !important;
+//     position: sticky;
+//     top: 0px;
+//     width: 100% !important;
+//     margin: 0px !important;
+//     z-index: 9;
+//     .ps-menu-button{
+//         padding-left: 16px !important;
+//         margin: 0 !important;
+//     }
+// }
+
+// .ps-menuitem-root.MenuRoot:first-child .ps-menu-button:hover {
+//     border-radius: 0px !important;
+// }
+
+// .ps-menuitem-root.MenuRoot {
+//     margin-left: 0% !important;
+// }
+
+// .ps-menuitem-root.MenuRoot .ps-menu-button {
+//     margin-left: 0% !important;
+//     padding: 20px !important;
+// }
+
+// // SideBar collapsed
+// .ps-sidebar-root.ps-collapsed {
+//     .rootMenu{
+//         gap: 3em;
+//         padding: 10px 22px;
+//     }
+
+//     .ps-open .ps-menu-button {
+//         padding: 17px !important;
+
+//         &:hover {
+//             border-radius: unset !important;
+//         }
+
+//         .ps-menu-icon.ps-active {
+//             min-width: unset !important;
+//             width: 30px !important;
+//             height: 30px !important;
+//             // background: #e83efe !important;
+//         }
+//     }
+
+//     .ps-submenu-content.ps-open {
+//         background: #f6f3fe !important;
+//         // box-shadow: 0px 0px 3px 1px #bebdc1;
+//         // border-radius: 15px;
+//         margin-top: 15px;
+
+//         .ps-menuitem-root {
+//             // box-shadow: 0px 3px 9px 0px #d2d2d2 !important;
+//             border-bottom: unset !important;
+//             height: 50px;
+
+//             .ps-menu-button.ps-active {
+//                 height: 30px;
+//                 margin: 5px !important;
+//                 padding: 10px !important;
+//             }
+//         }
+//     }
+
+//     .MenuFooter .ps-menu-button {
+//         padding-left: 30% !important;
+//     }
+
+//     .ps-submenu-root {
+//         border-radius: 0px !important;
+//         .ps-submenu-root{
+//             .ps-menu-button {
+//                 border-radius: 0px !important;
+//                 background: unset !important;
+//             }
+//         }
+//         .ps-submenu-root.ps-open{
+//             .ps-menu-button {
+//                 border-radius: 0px !important;
+//                 background: unset !important;
+//             }
+//         }
+//     }
+// }
